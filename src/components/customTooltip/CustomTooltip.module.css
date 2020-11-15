@@ -1,0 +1,13 @@
+.tooltipBtn {
+  margin: 1.3em 0;
+}
+
+.navItem {
+  width: 100%;
+  text-align: center;
+}
+
+.navItem:hover {
+  border-right: 3px solid #047aed;
+}
+/*# sourceMappingURL=CustomTooltip.module.css.map */
